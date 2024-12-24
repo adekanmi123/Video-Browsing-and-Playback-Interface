@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Ocean Waves",
+    "genre": "Nature",
+    "duration": "10:24",
+    "thumbnail": "/thumbnails/ocean.jpg",
+    "videoUrl": "/videos/ocean.mp4",
+    "description": "Relax with the calming sounds of ocean waves."
+  },
+  {
+    "id": 2,
+    "title": "City Lights",
+    "genre": "Urban",
+    "duration": "8:15",
+    "thumbnail": "/thumbnails/city.jpg",
+    "videoUrl": "/videos/city.mp4",
+    "description": "A timelapse of bustling city lights."
+  }
+]
